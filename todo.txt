@@ -1,4 +1,0 @@
-rename askmanager
-add employee picker to end of all prompt types
-reset all html template files with fs function at start of app.js (maybe don't do this)
-after prompt is finished, document.getelementbyid the id made in the html file, probably use the tag with columns is-multiline
